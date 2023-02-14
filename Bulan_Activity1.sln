@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bulan_Activity1", "Bulan_Activity1\Bulan_Activity1.csproj", "{4DC1C2D6-341D-4BFF-BF64-2778961C7087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DC1C2D6-341D-4BFF-BF64-2778961C7087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC1C2D6-341D-4BFF-BF64-2778961C7087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC1C2D6-341D-4BFF-BF64-2778961C7087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC1C2D6-341D-4BFF-BF64-2778961C7087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A13D9368-4CDC-450B-8559-5E6744B1CFF1}
+	EndGlobalSection
+EndGlobal
